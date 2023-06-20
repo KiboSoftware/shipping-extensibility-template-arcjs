@@ -4,6 +4,11 @@
       "id": "embedded.commerce.catalog.storefront.shipping.shippingExtensibility.main",
       "virtualPath": "./dist/commerce.catalog.storefront.shipping.manifest.all.js",
       "actionId": "embedded.commerce.catalog.storefront.shipping.shippingExtensibility.main"
+    },
+    {
+      "id": "embedded.platform.applications.install",
+      "virtualPath": "./dist/commerce.catalog.storefront.shipping.manifest.all.js",
+      "actionId": "embedded.platform.applications.install"
     }
   ]
 }
