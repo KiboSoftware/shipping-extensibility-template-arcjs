@@ -30,7 +30,7 @@ If you are not, please review the API Extensions guide found [here](https://docs
 3. Configure your mozu.config.json file
 
 ```bash
-cp mozu.config-template.json ./mozu.config-json
+cp mozu.config-template.json ./mozu.config.json
 ```
 
 4. Install Dependencies

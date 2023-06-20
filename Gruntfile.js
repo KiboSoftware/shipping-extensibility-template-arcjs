@@ -11,6 +11,10 @@ module.exports = function (grunt) {
         options: { force: true },
         src: '<%= jshint.normal %>',
       },
+      'options': {
+          'esversion': 11,
+          'asi': true
+       }
     },
     browserify: {
       all: {
